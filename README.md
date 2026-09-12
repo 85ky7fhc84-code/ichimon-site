@@ -39,3 +39,4 @@ UPDATE members SET role='admin' WHERE game_name='あなたのゲーム名';
 - `wrangler.toml` の `database_id` は実際の D1 Database ID に置き換えてください。
 - Worker Secret `SESSION_SECRET` を設定してください。
 - 部隊登録は Lv1〜50 と兵種（馬・弓・槍・鉄砲）のみです。
+Cloudflare deploy test
